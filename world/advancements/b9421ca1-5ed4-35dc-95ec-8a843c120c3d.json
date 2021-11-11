@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2021-11-10 15:08:24 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-11-05 21:25:57 -0700"
@@ -359,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2021-11-10 15:08:24 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2021-11-05 19:55:10 -0700"
@@ -380,6 +392,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-11-05 21:32:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2021-11-10 15:09:16 -0800"
     },
     "done": true
   },
@@ -749,6 +767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2021-11-10 15:08:24 -0800"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2021-11-07 12:36:28 -0800"
@@ -1010,10 +1034,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2021-11-05 20:06:59 -0700",
+      "minecraft:mountains": "2021-11-10 15:09:06 -0800",
       "minecraft:taiga": "2021-11-05 18:46:53 -0700",
       "minecraft:desert_hills": "2021-11-07 14:10:52 -0800",
       "minecraft:taiga_hills": "2021-11-05 19:06:35 -0700",
       "minecraft:desert": "2021-11-07 14:06:38 -0800",
+      "minecraft:birch_forest": "2021-11-10 14:59:40 -0800",
       "minecraft:dark_forest": "2021-11-05 20:05:28 -0700",
       "minecraft:river": "2021-11-05 18:51:12 -0700",
       "minecraft:swamp": "2021-11-05 20:03:29 -0700",
@@ -1775,6 +1801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-11-10 15:10:48 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-11-05 21:24:02 -0700"
@@ -2033,6 +2065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2021-11-10 15:03:24 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2021-11-05 20:00:23 -0700"
@@ -2222,6 +2260,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-11-07 14:11:22 -0800"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-11-10 15:10:48 -0800"
     },
     "done": true
   },
